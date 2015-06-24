@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "5121040b730d0c25207a0b8782b36135"
+inputs: 
+- "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/HostingApp/AppDelegate.swift"
+- "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/HostingApp/ViewController.swift"

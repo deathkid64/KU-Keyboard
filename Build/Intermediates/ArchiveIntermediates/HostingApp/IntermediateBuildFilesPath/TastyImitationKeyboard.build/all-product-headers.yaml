@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/Build/Intermediates/ArchiveIntermediates/HostingApp/BuildProductsPath/Release-iphoneos/KeyboardFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "KeyboardFramework-Swift.h",
+          'external-contents': "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/Build/Intermediates/ArchiveIntermediates/HostingApp/BuildProductsPath/Release-iphoneos/KeyboardFramework.framework/Headers/KeyboardFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "KeyboardFramework.h",
+          'external-contents': "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/KeyboardFramework/KeyboardFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/Build/Intermediates/ArchiveIntermediates/HostingApp/BuildProductsPath/Release-iphoneos/KeyboardFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ryanwang/Downloads/tasty-imitation-keyboard-master/Build/Intermediates/ArchiveIntermediates/HostingApp/IntermediateBuildFilesPath/TastyImitationKeyboard.build/Release-iphoneos/KeyboardFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

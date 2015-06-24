@@ -1,0 +1,1 @@
+ const unsigned char KeyboardFrameworkVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:KeyboardFramework  PROJECT:TastyImitationKeyboard-1" "\n"; const double KeyboardFrameworkVersionNumber __attribute__ ((used)) = (double)1.;
